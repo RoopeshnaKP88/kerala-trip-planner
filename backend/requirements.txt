@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+httpx
+pydantic
+pydantic-settings
+redis
+sqlalchemy
+psycopg[binary]
+agno
+google-genai
+numpy
+pyarrow
+pandas
+streamlit
+requests
